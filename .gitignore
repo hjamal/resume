@@ -2,3 +2,4 @@
 .flickrExclusion
 *.log
 *.aux
+*.synctex.gz
